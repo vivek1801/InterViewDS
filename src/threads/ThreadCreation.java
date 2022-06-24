@@ -6,6 +6,7 @@ public class ThreadCreation {
       @Override
       public void run() {
         System.out.println("I'm going for a walk");
+        "Hello".length();
       }
     });
 
